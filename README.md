@@ -1,10 +1,9 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on learning what GitHub is and how to utilize it to further my career in tech
 <!--
 **crfield97/crfield97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
